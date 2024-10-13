@@ -1,0 +1,14 @@
+D:\programming\bootcamp\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.exe
+D:\programming\bootcamp\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.deps.json
+D:\programming\bootcamp\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.runtimeconfig.json
+D:\programming\bootcamp\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.dll
+D:\programming\bootcamp\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.pdb
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.AssemblyInfoInputs.cache
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.AssemblyInfo.cs
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.csproj.CoreCompileInputs.cache
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.dll
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\refint\SistemaHospedagemDeHotel.dll
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.pdb
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.genruntimeconfig.cache
+D:\programming\bootcamp\SistemaHospedagemDeHotel\obj\Debug\net8.0\ref\SistemaHospedagemDeHotel.dll
